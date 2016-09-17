@@ -1,4 +1,4 @@
-# Stattleship Api
+# Stattleship API
 
 We make it easy for developers, data scientists, and hobbyists to fetch sports data.
 
