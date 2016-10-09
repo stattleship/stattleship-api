@@ -2,7 +2,7 @@
 
 We make it easy for developers, data scientists, and hobbyists to fetch sports data.
 
-Get your API token at (https://api.stattleship.com) [https://api.stattleship.com]
+Get your API token at [https://api.stattleship.com](https://api.stattleship.com)
 
 ## Feature requests for the Stattleship API
 
